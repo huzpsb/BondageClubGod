@@ -1,5 +1,5 @@
 # BondageClubGod
-一个给BondageClub在线游戏用的魔法脚本~
+一个给BondageClub(Bondage-College)在线游戏用的魔法脚本~
 
 A cheat script (also known as "magic" in game) for the online game "BondageClub".
 
