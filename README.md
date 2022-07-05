@@ -8,3 +8,11 @@ https://www.bondage-europe.com/R81/BondageClub/
 ![image](https://user-images.githubusercontent.com/41772578/176708599-1c27cffc-a499-4092-8f7c-b0b06b1330ac.png)
 
 详情见release文件夹 qwq
+
+Check out the release tag to download.
+
+本项目有且只有一部分开源。
+
+A part of this work is open-sourced.
+
+https://github.com/huzpsb/awBOT
