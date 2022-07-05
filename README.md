@@ -2,6 +2,7 @@
 一个给BondageClub(Bondage-College)在线游戏用的魔法脚本~
 
 和其他脚本功能最大不同是有bot功能
+
 Featuring unique bot function.
 
 A cheat script (also known as "magic" in game) for the online game "BondageClub".
